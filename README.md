@@ -38,7 +38,7 @@ To get started with Django EMS, follow these steps:
 5. **Access the Application**: Open your web browser and navigate to `http://localhost:8000` to access Django EMS.
 
 ## Contributing
-Contributions to Django EMS are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request. Make sure to follow the contribution guidelines outlined in the `CONTRIBUTING.md` file.
+Contributions to Django EMS are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request. 
 
 ## License
 This project is licensed under the MIT License - see the `LICENSE` file for details.
